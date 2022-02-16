@@ -4,7 +4,7 @@
     <p class="mg20">This is a root element</p>
     <div class="flex flex-column">
       <div class="flex flex-center mg-t10">
-        <label>姓名：</label>
+        <label>姓名22：</label>
         <input ref="nameinput" v-model.trim="formData.name" maxlength="16" />
       </div>
       <div class="flex flex-center mg-t10">
